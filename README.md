@@ -34,7 +34,7 @@ This Power BI dashboard analyzes customer sales performance using key KPIs, sale
 ![Total Sales by Region](Customer_Performance_Total_Sales_by_Region.png)
 
 ### 4) Top 10 Customers by Sales
-![Top 10 Customers by Sales](Top10_Customers_Sales.png)
+![Top 10 Customers by Sales](Top10_Customers_Sales..png)
 
 ---
 
